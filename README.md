@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 Currently working on:<br>C++ fundamentals, Data Structures, and Data Visualization projects.<br><br>🤝 Looking to collaborate on:<br>Beginner-friendly C++ and Data Science projects.<br><br>💬 Looking for help with:<br>Writing clean C++ code and building a strong project portfolio.<br><br>🌱 Currently learning:<br>C++, DSA, Python for Data Science, and ML basics.<br><br>💡 Ask me about:<br>Data visualization, online learning tips, and student productivity.<br><br>😄 Fun fact:<br>I walk daily for over an hour and aim to read 100 books this year! 📚🚶<br>
+<br>🔭 Currently working on:<br>C++ fundamentals, Data Structures, and Data Visualization projects.<br><br>🤝 Looking to collaborate on:<br>Beginner-friendly C++ and Data Science projects.<br><br>💬 Looking for help with:<br>Writing clean C++ code and building a strong project portfolio.<br><br>🌱 Currently learning:<br>C++, DSA, Python for Data Science, and ML basics.<br><br>💡 Ask me about:<br>Data visualization, online learning tips, and student productivity.<br><br>😄 Fun fact:<br>I walk daily for over an hour and aim to read 100 books this year! 📚🚶<br>
 
 
 ## 🌐 Socials:
