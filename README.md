@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Explorer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
+**BTech CSDS | 🤖 AI & Data Science Enthusiast | 📚 C++ & Data Viz Certified | 🚀 Building Projects | 🎓 Open to Internships**
+
 </div>
 
 ---
@@ -45,27 +47,27 @@
 
 <div align="center">
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&theme=react-dark&hide_border=true&area=true)
+### 📈 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Journey)
 
-### 📉 Detailed Stats
+### 📉 Detailed Statistics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ArunVijaykumarcsds&theme=tokyonight&hide_border=true" />
 
-### 💻 Most Used Languages
+### 💻 Language Distribution
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunVijaykumarcsds&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+### 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
 
-### 📅 Contribution Heatmap
+### 📅 Contribution Calendar
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArunVijaykumarcsds&theme=tokyonight" width="100%" />
 
-### ⏰ Coding Activity (When I'm Most Active)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ArunVijaykumarcsds&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
+### ⏰ Coding Activity Timeline
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArunVijaykumarcsds&theme=tokyonight&utcOffset=5.5" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArunVijaykumarcsds&theme=tokyonight" width="49%" />
 
 </div>
 
@@ -75,11 +77,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunvk2004/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arun_vk2704/) 
-[![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ArunVijaykumarcsds) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@arunvijaykumar) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunvk207@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunvk2004/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arun_vk2704/) 
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ArunVijaykumarcsds) 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@arunvijaykumar) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunvk207@gmail.com)
 
 </div>
 
@@ -87,16 +89,24 @@
 
 <div align="center">
 
-### 🐍 Watch My Contributions Get Eaten!
+### 🐍 Contribution Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ArunVijaykumarcsds&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=ArunVijaykumarcsds&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ArunVijaykumarcsds?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ArunVijaykumarcsds?style=social)
 
 ### *"Data is the new oil, and Python is the refinery."*
 
-**⭐ Star my repositories if you find them useful!**
+**⭐ Star my repositories if you find them useful! | 🤝 Let's build something amazing together!**
 
 </div>
