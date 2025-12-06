@@ -1,18 +1,102 @@
-# 💫 About Me:
-<br>🔭 Currently working on:<br>C++ fundamentals, Data Structures, and Data Visualization projects.<br><br>🤝 Looking to collaborate on:<br>Beginner-friendly C++ and Data Science projects.<br><br>💬 Looking for help with:<br>Writing clean C++ code and building a strong project portfolio.<br><br>🌱 Currently learning:<br>C++, DSA, Python for Data Science, and ML basics.<br><br>💡 Ask me about:<br>Data visualization, online learning tips, and student productivity.<br><br>😄 Fun fact:<br>I walk daily for over an hour and aim to read 100 books this year! 📚🚶<br>
+<div align="center">
 
+# Hi there, I'm Arun Vijaykumar! 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arun_vk2704/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arunvk2004/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/ArunVijaykumarcsds) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@arunvijaykumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunvk207@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Explorer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArunVijaykumarcsds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunVijaykumarcsds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArunVijaykumarcsds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Up To
+
+- 🐍 **Currently Building:** Python projects focusing on DSA, data visualization dashboards, and ML experiments
+- 🌱 **Learning:** Advanced Python, Data Structures & Algorithms, Machine Learning, Deep Learning with PyTorch & TensorFlow
+- 🤝 **Open to Collaborate:** Beginner-friendly Python projects, Data Science experiments, and ML models
+- 💬 **Ask Me About:** Data visualization techniques, Python best practices, online learning strategies, student productivity hacks
+- 📚 **2024 Goal:** Read 100 books while walking 1+ hour daily (current streak going strong! 🚶)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Core**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+**Data Science & Visualization**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Machine Learning & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Game Development**  
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&theme=react-dark&hide_border=true&area=true)
+
+### 📉 Detailed Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ArunVijaykumarcsds&theme=tokyonight&hide_border=true" />
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunVijaykumarcsds&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+### 📅 Contribution Heatmap
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArunVijaykumarcsds&theme=tokyonight" width="100%" />
+
+### ⏰ Coding Activity (When I'm Most Active)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ArunVijaykumarcsds&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArunVijaykumarcsds&theme=tokyonight&utcOffset=5.5" width="49%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunvk2004/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arun_vk2704/) 
+[![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ArunVijaykumarcsds) 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@arunvijaykumar) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunvk207@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Watch My Contributions Get Eaten!
+
+![Snake animation](https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=ArunVijaykumarcsds&icon=0&color=0)
+
+### *"Data is the new oil, and Python is the refinery."*
+
+**⭐ Star my repositories if you find them useful!**
+
+</div>
