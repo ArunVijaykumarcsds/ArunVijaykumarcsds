@@ -151,9 +151,25 @@ me.say_hi()
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=algolia&no-frame=false&no-bg=false&margin-w=15&margin-h=15" alt="Trophy" />
+<div align="center">
+
+<a href="https://github.com/ArunVijaykumarcsds/Decentralized-Voting-System">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Decentralized-Voting-System&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/ArunVijaykumarcsds/Docify-showcase">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Docify-showcase&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+<a href="https://github.com/ArunVijaykumarcsds/student-depression-predictor">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=student-depression-predictor&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/ArunVijaykumarcsds/Hangman-IndianCities">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Hangman-IndianCities&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+</div>
 
 </div>
 
