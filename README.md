@@ -124,16 +124,22 @@ me.say_hi()
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&custom_title=Arun's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ArunVijaykumarcsds&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunVijaykumarcsds&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8" alt="Top Languages" width="50%" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ArunVijaykumarcsds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunVijaykumarcsds&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArunVijaykumarcsds&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
 </div>
 
 ---
@@ -142,7 +148,7 @@ me.say_hi()
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="Trophy" width="100%" />
 
 </div>
 
@@ -182,7 +188,7 @@ me.say_hi()
 
 ### 💡 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
@@ -193,9 +199,9 @@ me.say_hi()
 ### 🐍 Watch My Contributions Get Eaten!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArunVijaykumarcsds/ArunVijaykumarcsds/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -206,7 +212,7 @@ me.say_hi()
 
 ### 📈 Profile Views
 
-<img src="https://visitcount.itsvg.in/api?id=ArunVijaykumarcsds&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ArunVijaykumarcsds&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ### 💖 Thanks for visiting!
 
