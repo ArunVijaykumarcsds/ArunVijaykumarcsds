@@ -46,6 +46,8 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%">
@@ -68,6 +70,8 @@ me.say_hi()
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -149,9 +153,7 @@ me.say_hi()
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&column=7" alt="Trophy" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=algolia&no-frame=false&no-bg=false&margin-w=15&margin-h=15" alt="Trophy" />
 
 </div>
 
