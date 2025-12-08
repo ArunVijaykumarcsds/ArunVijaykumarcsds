@@ -155,11 +155,19 @@ me.say_hi()
 
 <div align="center">
 
-[![AI Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=ai-toolkit&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/ArunVijaykumarcsds/ai-toolkit)
-[![Repair Kit](https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=repair-kit&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/ArunVijaykumarcsds/repair-kit)
+<a href="https://github.com/ArunVijaykumarcsds/ai-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=ai-toolkit&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="400" />
+</a>
+<a href="https://github.com/ArunVijaykumarcsds/repair-kit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=repair-kit&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="400" />
+</a>
 
-[![Git GitHub Guide](https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=git-github-guide-3G&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/ArunVijaykumarcsds/git-github-guide-3G)
-[![Student Depression Predictor](https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=student-depression-predictor&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)](https://github.com/ArunVijaykumarcsds/student-depression-predictor)
+<a href="https://github.com/ArunVijaykumarcsds/git-github-guide-3G">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=git-github-guide-3G&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="400" />
+</a>
+<a href="https://github.com/ArunVijaykumarcsds/student-depression-predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=student-depression-predictor&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" width="400" />
+</a>
 
 </div>
 
