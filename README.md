@@ -124,15 +124,23 @@ me.say_hi()
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&custom_title=Arun's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ArunVijaykumarcsds&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunVijaykumarcsds&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8" alt="Top Languages" width="49%" />
-</p>
+<br/>
 
+<div align="center">
+
+<a href="https://github.com/ArunVijaykumarcsds">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArunVijaykumarcsds&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunVijaykumarcsds&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
