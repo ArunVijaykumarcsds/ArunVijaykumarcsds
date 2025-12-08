@@ -156,17 +156,17 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/ArunVijaykumarcsds/Decentralized-Voting-System">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Decentralized-Voting-System&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Decentralized-Voting-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 <a href="https://github.com/ArunVijaykumarcsds/Docify-showcase">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Docify-showcase&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Docify-showcase&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 
 <a href="https://github.com/ArunVijaykumarcsds/student-depression-predictor">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=student-depression-predictor&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=student-depression-predictor&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 <a href="https://github.com/ArunVijaykumarcsds/Hangman-IndianCities">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Hangman-IndianCities&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArunVijaykumarcsds&repo=Hangman-IndianCities&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 
 </div>
