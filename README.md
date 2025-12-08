@@ -150,7 +150,7 @@ me.say_hi()
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArunVijaykumarcsds&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&column=7" alt="Trophy" />
 </p>
 
 </div>
@@ -223,10 +223,4 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
